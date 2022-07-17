@@ -82,5 +82,5 @@ me.say_hi()
 </a>
 
 ## 👨‍💻 Publication:
-<a href="https://www.google.com/" target="_blank">Google</a>
-https://sites.google.com/usc.edu/inappropriate--ads-work/home
+<a href="https://sites.google.com/usc.edu/inappropriate--ads-work/home">Did your child get scared by an inappropriate advertisement on YouTube?
+</a>
