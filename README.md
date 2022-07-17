@@ -21,6 +21,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+&nbsp;
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🔭 I’m currently working as a Software Developer in Information Sciences Institute (USC/ISI)
@@ -28,10 +29,11 @@ me.say_hi()
   - 💬 Feel Free to connect with me. I love communicating with everyone.
   - 😄 Pronouns: He / Him
  
+&nbsp;
 ## 📫 How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jeff-jh-liu/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/jeffliu077/)  &nbsp; <a href="mailto:jliu5021@usc.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
-    
+&nbsp;
 ## 🔧 Technologies & Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
