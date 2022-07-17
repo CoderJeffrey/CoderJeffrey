@@ -20,8 +20,6 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
-&nbsp;
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🔭 I’m currently working as a Software Developer in Information Sciences Institute (USC/ISI)
