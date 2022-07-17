@@ -50,7 +50,13 @@ me.say_hi()
 &nbsp;
 ## 🗂️ Featured Projects
 
-
+<a href="https://github.com/CoderJeffrey/Memory-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Memory-Game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Memory Game" />
+</a>
+    
+<a href="https://github.com/CoderJeffrey//Agenda-UI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Agenda-UI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Agenda UI" />
+</a>
 
 &nbsp;
 <!-- ## 👨‍💻 Publication:
