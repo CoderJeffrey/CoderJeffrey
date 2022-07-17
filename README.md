@@ -51,11 +51,11 @@ me.say_hi()
 ## 🗂️ Featured Projects
 
 <a href="https://github.com/CoderJeffrey/MemoryGame">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=MemoryGame&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Memory Game" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=MemoryGame&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Memory Game" />
 </a>
     
 <a href="https://github.com/CoderJeffrey//Agenda-UI-Chat">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Agenda-UI-Chat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Agenda UI" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Agenda-UI-Chat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Agenda UI" />
 </a>
 
 &nbsp;
