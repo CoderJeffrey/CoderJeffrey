@@ -72,6 +72,6 @@ Paper Title: Did your child get scared by an inappropriate advertisement on YouT
 - First Author of the work
 - Accepted by 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Undergraduate Consortium (KDD-UC). 
 - Tech: Selenium, Python, Web Scraping, HTML (May '22) -->
- 
+&nbsp;
 ## 📑 Github Stats <br />
 ![Jeffrey's github stats](https://github-readme-stats.vercel.app/api?username=CoderJeffrey&show_icons=true&hide_border=true&theme=algolia)
