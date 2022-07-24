@@ -54,7 +54,7 @@ me.say_hi()
 </a>
     
 <a href="https://github.com/CoderJeffrey//Agenda-UI-Chat">
-  <img align="left" height="1-0" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Agenda-UI-Chat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Agenda UI" />
+  <img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Agenda-UI-Chat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Agenda UI" />
 </a>
     
     
@@ -72,5 +72,6 @@ Paper Title: Did your child get scared by an inappropriate advertisement on YouT
 - Accepted by 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Undergraduate Consortium (KDD-UC). 
 - Tech: Selenium, Python, Web Scraping, HTML (May '22) -->
  
-&nbsp;
+<br />
+<br />
 ![Jeffrey's github stats](https://github-readme-stats.vercel.app/api?username=CoderJeffrey&show_icons=true&hide_border=true&theme=dark)
