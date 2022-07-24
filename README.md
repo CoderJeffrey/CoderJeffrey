@@ -61,7 +61,9 @@ me.say_hi()
     
 <a href="https://github.com/CoderJeffrey/Data-Structure-CSCI104-Project">
   <img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Data-Structure-CSCI104-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Data Structures Mini-Project" />
-</a> <br/>       
+</a>     
+
+<br/>       
 
     
 ## 📑 Github Stats <br/>
