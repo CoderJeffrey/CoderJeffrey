@@ -27,7 +27,7 @@ me.say_hi()
   - 💬 Feel Free to connect with me. I love communicating with everyone.
   - 😄 Pronouns: He / Him
  
-&nbsp;
+<br />
 ## 📫 How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jeff-jh-liu/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/jeffliu077/)  &nbsp; <a href="mailto:jliu5021@usc.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
@@ -72,6 +72,6 @@ Paper Title: Did your child get scared by an inappropriate advertisement on YouT
 - First Author of the work
 - Accepted by 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Undergraduate Consortium (KDD-UC). 
 - Tech: Selenium, Python, Web Scraping, HTML (May '22) -->
-&nbsp;
+<br />
 ## 📑 Github Stats <br />
 ![Jeffrey's github stats](https://github-readme-stats.vercel.app/api?username=CoderJeffrey&show_icons=true&hide_border=true&theme=algolia)
