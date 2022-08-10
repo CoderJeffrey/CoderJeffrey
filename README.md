@@ -22,6 +22,7 @@ me.say_hi()
 ```
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
+  - Personal Website: <a href="https://jeffreyliujl.com"> www.jeffreyliujl.com</a>
   - 🔭 I’m currently working as a Software Developer in Information Sciences Institute (USC/ISI)
   - 🌱 I’m currently learning about Angular Framework and Bid Data Analysis.
   - 💬 Feel Free to connect with me. I love communicating with everyone.
