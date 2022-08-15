@@ -59,7 +59,11 @@ me.say_hi()
   <img align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Agenda-UI-Chat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Agenda UI" />
 </a>
     
-    
+<a href="https://github.com/CoderJeffrey/JeffreyLiu-Website">
+  <img align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=JeffreyLiu-Website&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Personal Website" />
+</a>     
+
+        
 <a href="https://github.com/CoderJeffrey/Data-Structure-CSCI104-Project">
   <img align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Data-Structure-CSCI104-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Data Structures Mini-Project" />
 </a>     
@@ -71,11 +75,12 @@ me.say_hi()
 ![Jeffrey's github stats](https://github-readme-stats.vercel.app/api?username=CoderJeffrey&show_icons=true&hide_border=true&theme=algolia)
     
 
-<!-- ## 👨‍💻 Publication:
+## 👨‍💻 Publication:
 Paper Title: Did your child get scared by an inappropriate advertisement on YouTube?
 <a href="https://sites.google.com/usc.edu/inappropriate--ads-work/home">Website and Public Data set refers to my work 
 </a>  
 
 - First Author of the work
 - Accepted by 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Undergraduate Consortium (KDD-UC). 
-- Tech: Selenium, Python, Web Scraping, HTML (May '22) -->
+- Tech: Selenium, Python, Web Scraping, HTML (May '22)
+    
