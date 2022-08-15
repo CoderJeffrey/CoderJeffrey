@@ -80,7 +80,17 @@ Paper Title: Did your child get scared by an inappropriate advertisement on YouT
 <a href="https://sites.google.com/usc.edu/inappropriate--ads-work/home">Website and Public Data set refers to my work 
 </a>  
 
-- First Author of the work
+- **First Author**
+- Led a team of four student researchers to construct a large-scale and labeled dataset of YouTube advertisements displayed in young-kid-oriented videos.
 - Accepted by 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Undergraduate Consortium (KDD-UC). 
+- Tech: Selenium, Python, Web Scraping, HTML (May '22)
+
+<hr/>
+Paper Title: Samba: Identifying Inappropriate Videos for Young Children
+<a href="https://sites.google.com/usc.edu/inappropriate--ads-work/home">Website and Public Data set refers to my work 
+</a>  
+
+- Accepted by 31st The Conference on Information and Knowledge Management (CIKM) 
+- Collaborated with researchers and professors to develop a fusion model that improves the accuracy of predicting whether a YouTube video is appropriate for children by at least 7% over other state-of-the-art classifiers.
 - Tech: Selenium, Python, Web Scraping, HTML (May '22)
     
