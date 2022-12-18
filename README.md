@@ -55,7 +55,7 @@ me.say_hi()
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=MemoryGame&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Memory Game" />
 </a>
     
-<a href="https://github.com/CoderJeffrey//Agenda-UI-Chat">
+<a href="https://github.com/CoderJeffrey/CSIntern.io">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=https://github.com/CoderJeffrey/CSIntern.io&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt=“Intern.io" />
 </a>
     
