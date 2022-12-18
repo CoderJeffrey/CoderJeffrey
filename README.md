@@ -56,7 +56,7 @@ me.say_hi()
 </a>
     
 <a href="https://github.com/CoderJeffrey//Agenda-UI-Chat">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Agenda-UI-Chat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Agenda UI" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=https://github.com/CoderJeffrey/CSIntern.io&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt=“Intern.io" />
 </a>
     
 <a href="https://github.com/CoderJeffrey/JeffreyLiu-Website">
