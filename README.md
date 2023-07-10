@@ -56,8 +56,8 @@ A Job Dashboard and Newsletter website that helps student to find their best-fit
 Exciting Update! The Project now has 200+ active users.
 
 What makes exact-match.io a special project? 🛡️
-1️⃣ 📨 We have a Weekly Newsletter feature! Get tailored notifications about job postings that are in sync with your profile - your Grade Level, Sponsorship needs, and more.
-2️⃣ 🔍 Our intuitive homepage lets you Select and Filter job postings based on your criteria. The ‘Apply’ button will whisk you away directly to the job posting page. 💨
+- 📨We have a Weekly Newsletter feature! Get tailored notifications about job postings that are in sync with your profile - your Grade Level, Sponsorship needs, and more.
+- 🔍 Our intuitive homepage lets you Select and Filter job postings based on your criteria. The ‘Apply’ button will whisk you away directly to the job posting page. 💨
 
 ### Positive Refaming LLM
 - A large language model (GPT) supported Positive Reframing Website, allowing users to restructure sentences into more positive phrasing while retaining the essence of the content.
