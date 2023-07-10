@@ -12,7 +12,7 @@ class SoftwareEngineer:
         self.name = "Jeffrey Liu"
         self.role = "Software Engineer"
         self.language_spoken = ["en_US", "zh_CN"]
-        self.interests = ["Stand-Up Comedy", "NBA", "Ice Hockey", "Texas Hold'em Poker", "Anime (Attach on Titan)", "Go", "Chess"]
+        self.interests = ["Stand-Up Comedy", "NBA", "Ice Hockey", "Poker", "Anime (Attach on Titan)", "Go", "Chess"]
 
     def say_hi(self):
         print("Thanks for visiting my personal Github Repo, hope you find some of my featured work interesting.")
@@ -23,10 +23,10 @@ me.say_hi()
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - Personal Website: <a href="https://jeffreyliujl.com"> www.jeffreyliujl.com</a>
-  - 🔭 I’m currently working as a Software Developer in Information Sciences Institute (USC/ISI)
-  - 🌱 I’m currently learning about Angular Framework and Bid Data Analysis.
+  - 🔭 I’m currently working as a Software Engineer Intern at Amazon Web Services.
+  - 🌱 I’m currently learning about Nature Language Processing and LLM Finetuning.
   - 💬 Feel Free to connect with me. I love communicating with everyone.
-  - 😄 Pronouns: He / Him   
+  - 😄 Pronouns: He / Him / His
  
 
 ## 📫 How to reach me:
