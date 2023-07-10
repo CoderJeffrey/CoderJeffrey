@@ -59,7 +59,10 @@ What makes exact-match.io a special project? 🛡️
 1️⃣ 📨 We have a Weekly Newsletter feature! Get tailored notifications about job postings that are in sync with your profile - your Grade Level, Sponsorship needs, and more.
 2️⃣ 🔍 Our intuitive homepage lets you Select and Filter job postings based on your criteria. The ‘Apply’ button will whisk you away directly to the job posting page. 💨
 
-
+### Positive Refaming LLM
+- A large language model (GPT) supported Positive Reframing Website, allowing users to restructure sentences into more positive phrasing while retaining the essence of the content.
+- Integrated the HuggingFace Gradio API and ChatGPT API into the system, allowing users to receive multiple
+rephrased sentence options for selection.
 <a href="https://github.com/CoderJeffrey/Positive_Reframs_Frontend">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderJeffrey&repo=Positive_Reframs_Frontend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Positive_Reframs_Frontend" />
 </a>
