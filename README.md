@@ -22,7 +22,7 @@ me.say_hi()
 ```
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
-  - Personal Website: <a href="https://coderjeffrey.github.io/Personal_Website/"> www.jeffreyliujl.com</a>
+  - Personal Website: <a href="https://coderjeffrey.github.io/Personal_Website/">https://coderjeffrey.github.io/Personal_Website/</a>
   - 🔭 I’m currently working as a Software Engineer Intern at Amazon Web Services.
   - 🌱 I’m currently learning about Nature Language Processing and LLM Finetuning.
   - 💬 Feel Free to connect with me. I love communicating with everyone.
